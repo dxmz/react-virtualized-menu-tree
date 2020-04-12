@@ -3,7 +3,7 @@
 
  [react-virtualized-menu-tree](https://github.com/dxmz/react-virtualized-menu-tree)  is used for rendering large tree structures. It is built on top of the [react-vtree](https://github.com/Lodin/react-vtree) library.
 
- Try the [demo](https://dxmz.github.io/react-virtualized-menu-tree/) first, enjoy it.
+ Try the [demo](https://dxmz.github.io/react-virtualized-menu-tree/index.html) first, enjoy it.
 
 ***Notice***: This library rewrites some features of `react-vtree`, such as `styles`、 `behaves`. It is lightweight and simplifies usage and beautifies looks. Especially, this library is more suited to `large-scale menu-tree scenarios`.
 
