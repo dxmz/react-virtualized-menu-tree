@@ -8,7 +8,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "serve -p 8080 example/dist",
-    "dev-build": "rollup -w -c scripts/rollup.config.dev.js",
+    "dev-build": "rollup -c scripts/rollup.config.dev.js",
     "prepublishOnly": "npm run build",
     "clean-dist": "rimraf example/dist",
     "clean-lib": "rimraf lib",
