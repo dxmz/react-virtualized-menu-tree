@@ -1,0 +1,13 @@
+# .npmignore
+.idea/
+.git
+
+example/dist
+example/images
+scripts
+src
+.babelrc
+.browserslistrc
+.gitignore
+.npmignore
+package-lock.json
